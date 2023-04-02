@@ -1,0 +1,1 @@
+{"uuid":"9e233281-59ee-4578-bcd7-793dff6ded54","name":"saucedemo.tugas2.BasedWebTestUsingThreadLocalParalel.tearDown","description":"","start":1678554693918,"stop":1678554694692,"children":["5e19c480-43eb-4b5d-9c04-4ec4812e573f"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1678554693918,"stop":1678554694692}]}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20215" started-at="2023-03-19T05:01:20Z" finished-at="2023-03-19T05:01:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20215" started-at="2023-03-19T05:01:20Z" finished-at="2023-03-19T05:01:40Z">
+      <class name="saucedemo.tugas2.WebTestUsingPOMManual">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:saucedemo.tugas2.WebTestUsingPOMManual@d4342c2]" name="setUp" is-config="true" duration-ms="15628" started-at="2023-03-19T05:01:20Z" finished-at="2023-03-19T05:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:saucedemo.tugas2.WebTestUsingPOMManual@d4342c2]" name="testLogin" duration-ms="2932" started-at="2023-03-19T05:01:36Z" finished-at="2023-03-19T05:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:saucedemo.tugas2.WebTestUsingPOMManual@d4342c2]" name="tearDown" is-config="true" duration-ms="1105" started-at="2023-03-19T05:01:39Z" finished-at="2023-03-19T05:01:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- saucedemo.tugas2.WebTestUsingPOMManual -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

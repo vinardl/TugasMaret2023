@@ -1,0 +1,1 @@
+{"uuid":"1fba7ddc-6c34-479f-9a0f-eee9caba75d4","name":"yopmail.tugas3.BasedWebTestUsingThreadLocalParalel.tearDown","description":"","start":1678693305904,"stop":1678693307440,"children":["0b4bd649-94d1-4639-9b58-4f81233ba466"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1678693305905,"stop":1678693307440}]}

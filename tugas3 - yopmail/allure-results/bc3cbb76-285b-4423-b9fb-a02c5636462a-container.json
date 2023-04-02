@@ -1,0 +1,1 @@
+{"uuid":"bc3cbb76-285b-4423-b9fb-a02c5636462a","name":"yopmail.tugas3.BasedWebTestUsingThreadLocalParalel.setUp","description":"","start":1678729623137,"stop":1678729627443,"children":["bce5869e-3730-417f-af6e-42e5585a183c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1678729623138,"stop":1678729627442}]}

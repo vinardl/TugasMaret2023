@@ -1,0 +1,1 @@
+{"uuid":"bdef8222-059c-4251-b1c5-5e903afd928e","name":"saucedemo.tugas2.BasedWebTestUsingThreadLocalParalel.setUp","description":"","start":1678571024917,"stop":1678571028280,"children":["05bd3aba-cc93-4f1a-867a-d0c6572ad5d2"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1678571024919,"stop":1678571028280}]}

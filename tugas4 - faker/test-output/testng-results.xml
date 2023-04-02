@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-25T10:17:00Z" name="Default suite" finished-at="2023-03-25T10:17:11Z" duration-ms="10873">
+    <groups>
+    </groups>
+    <test started-at="2023-03-25T10:17:00Z" name="Default test" finished-at="2023-03-25T10:17:11Z" duration-ms="10873">
+      <class name="tugas4.coba.APITestAfterRefactor">
+        <test-method is-config="true" signature="loginAPI()[pri:0, instance:tugas4.coba.APITestAfterRefactor@70f43b45]" started-at="2023-03-25T10:17:00Z" name="loginAPI" finished-at="2023-03-25T10:17:07Z" duration-ms="6611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI -->
+        <test-method signature="signUpAPI()[pri:0, instance:tugas4.coba.APITestAfterRefactor@70f43b45]" started-at="2023-03-25T10:17:07Z" name="signUpAPI" finished-at="2023-03-25T10:17:11Z" duration-ms="4002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpAPI -->
+      </class> <!-- tugas4.coba.APITestAfterRefactor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
